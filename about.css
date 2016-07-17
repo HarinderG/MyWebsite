@@ -1,0 +1,51 @@
+body{
+	background-color: #90A4AE;
+	background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif
+}
+
+#text p{
+	color: #37474F;
+	text-align: center;
+	font-weight: 100;
+	font-size: 2em;
+	position: relative;
+	top: 12em;
+}
+
+/*Unused tabs*/
+#menu ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: -20%;
+    background-color: #F44336;
+}
+
+#menu li{
+	float: left;
+}
+
+/*Tab setup*/
+#menu li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*Current page tab*/
+#menu li a.active {
+    background-color: #FF1744;
+    color: white;
+}
+
+/*Tab hover*/
+#menu li a:hover:not(.active) {
+    background-color: #D50000;
+    color: white;
+}
