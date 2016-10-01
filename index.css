@@ -1,6 +1,8 @@
 body {
-	background-color: #2196F3;
-	background-repeat: no-repeat;
+	/*background-color: #2196F3;
+	background-repeat: no-repeat;*/
+    background-image: url('media/river.gif');
+    background-size: cover;
 	font-family: 'Raleway', sans-serif
 }
 
