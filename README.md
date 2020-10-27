@@ -1,5 +1,10 @@
 # mysite
-A place for me to try new things
+A place for me to try new things. 😀
 ## To do list
-- [ ] Test
-- [x] Test1
+- [x] Html boilerplate
+- [ ] Find absolute link for resume
+- [ ] Make CSS for index page
+    - [ ] Change font
+    - [ ] Center content
+    - [ ] Open links in new tab
+    - [ ] Cange link colors
