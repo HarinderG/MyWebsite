@@ -4,7 +4,7 @@ A place for me to try new things. 😀
 - [x] Html boilerplate
 - [x] Find absolute link for resume
 - [ ] Make CSS for index page
-    - [ ] Change font
-    - [ ] Center content
+    - [x] Change font
+    - [x] Center content
     - [ ] Open links in new tab
-    - [ ] Change link colors
+    - [x] Change link colors
