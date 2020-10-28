@@ -7,4 +7,4 @@ A place for me to try new things. 😀
     - [ ] Change font
     - [ ] Center content
     - [ ] Open links in new tab
-    - [ ] Cange link colors
+    - [ ] Change link colors
