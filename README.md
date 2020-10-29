@@ -8,5 +8,5 @@ A place for me to try new things. 😀
     - [x] Center content
     - [x] Open links in new tab
     - [x] Change link colors
-- [ ] Add type effect to title
+- [x] Add type effect to title
     - [ ] Blinking cursor
