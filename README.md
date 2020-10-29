@@ -9,3 +9,4 @@ A place for me to try new things. 😀
     - [x] Open links in new tab
     - [x] Change link colors
 - [ ] Add type effect to title
+    - [ ] Blinking cursor
