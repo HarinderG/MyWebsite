@@ -10,3 +10,4 @@ A place for me to try new things. 😀
     - [x] Change link colors
 - [x] Add type effect to title
     - [x] Blinking cursor
+- [ ] Add favicon
